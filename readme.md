@@ -1,0 +1,1 @@
+amritgit initgit add <filename>
